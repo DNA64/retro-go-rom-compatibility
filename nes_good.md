@@ -1,9 +1,9 @@
 #### Known Good ROMS.
 
-The following games don't appear to have any issues when using `retro-go`. 
+The following games don't appear to have any issues when using `retro-go`. Later builds featuring LZ4 compression may have issues with games in excess of 512k
 If you encounter an issue with any of the games below, please compare the checksums before creating an issue. Please feel free to contribute!
 
-|SYSTEM| GAME |FILE CRC32| ROM CRC32 | ISSUE | PLAYABLE
+|SYSTEM|GAME|CRC32 1|CRC32 2|ISSUE|PLAYABLE
 |-|-|-|-|-|-|
 |NES|**#**||||
 ||||||
@@ -28,6 +28,7 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**J**||||
 ||||||
 |NES|**K**||||
+|NES|Kirby's Adventure (USA) (Rev 1)|9EFD5757|n/a|Works with Pre-LZ4 builds of Retro-Go|YES
 ||||||
 |NES|**L**||||
 ||||||
