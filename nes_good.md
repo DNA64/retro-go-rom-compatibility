@@ -14,6 +14,7 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**C**||||
 ||||||
 |NES|**D**||||
+|NES|Dragon Warrior (USA) (Rev A).nes||d4d5f5d7||
 ||||||
 |NES|**E**||||
 ||||||
@@ -26,16 +27,17 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**I**||||
 ||||||
 |NES|**J**||||
+|NES|Jackal (USA).nes||2e52d091||YES
 ||||||
 |NES|**K**||||
-|NES|Kirby's Adventure (USA) (Rev 1)|9EFD5757|n/a|Works with Pre-LZ4 builds of Retro-Go|YES
+|NES|Kirby's Adventure (USA) (Rev 1).nes|9EFD5757|n/a|Too large to compress|YES
 ||||||
 |NES|**L**||||
 ||||||
 |NES|**M**||||
 ||||||
 |NES|**N**||||
-|NES| Ninja Gaiden (U) |FE7CEF7A||| YES
+|NES| Ninja Gaiden (U).nes|FE7CEF7A||| YES
 ||||||
 |NES|**O**||||
 ||||||
@@ -44,10 +46,11 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**Q**||||
 ||||||
 |NES|**R**||||
+|NES|Rad Racer II (USA).nes ||39d371ec||YES
 ||||||
 |NES|**S**||||
-|NES| Super Mario Bros. (U) |FBDAAC3F ||| YES
-|NES| Super Mario Bros. 2 (U) |9608C007||| YES
+|NES| Super Mario Bros. (U).nes|FBDAAC3F ||| YES
+|NES| Super Mario Bros. 2 (U).nes |9608C007||| YES
 ||||||
 |NES|**T**||||
 ||||||
