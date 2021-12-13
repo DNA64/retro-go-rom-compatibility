@@ -26,6 +26,7 @@ please see https://github.com/DNA64/retro-go-rom-compatibility/blob/main/nes_goo
 ||||||
 |NES|**B**||||
 |NES|Battletoads||BA9164E7|Blackscreen after loading|NO
+|NES|Battletoads-Double Dragon (USA)||53b02f3d|Blackscreen after loading|NO
 |NES|Big Nose Freaks Out||AD16F6C7|Doesn't load|NO
 |NES|Bill & Ted's Excellent Adventure||A905CC12|Not working|NO
 |NES|Bump 'n' Jump||79BFE095|Game crashes when repeatedly pressing the (B) button.|NO
@@ -80,8 +81,10 @@ please see https://github.com/DNA64/retro-go-rom-compatibility/blob/main/nes_goo
 |NES|**S**|||
 |NES|Super Mario Bros. 2 (J)|ALL| | BSOD |NO
 |NES|Super Mario Bros. 3 (U)|FADE3E2F||Minor scaling issue |YES
+|NES|Snow Brothers (USA).nes||701f4326|MAGI|NO
 ||||||
 |NES|**T**||||
+|NES|Target - Renegade (USA).nes||fe07b4ac|MGI|YES
 |NES|Teenage Mutant Ninja Turtles (U) |001834E4| |MGI|YES
 |NES|Teenage Mutant Ninja Turtles Tournament Fighters (U)|248C8252||MGI|YES
 |NES|Twin Cobra|n/a|n/a|MGI|YES
