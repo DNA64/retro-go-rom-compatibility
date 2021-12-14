@@ -1,6 +1,6 @@
 #### Known Good ROMS.
 
-The following games don't appear to have any issues when using `retro-go`. Later builds featuring LZ4 compression may have issues with games in excess of 512k
+The following games don't appear to have any issues when using `retro-go`. 
 If you encounter an issue with any of the games below, please compare the checksums before creating an issue. Please feel free to contribute!
 
 |SYSTEM|GAME|CRC32 1|CRC32 2|ISSUE|PLAYABLE
