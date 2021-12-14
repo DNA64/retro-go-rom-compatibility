@@ -1,13 +1,13 @@
 ## LCD ROM Compatibility 
 
-This page is a work in progress, [please feel free to contribute](https://github.com/DNA64/retro-go-rom-compatibility/tree/main).
+This page is a work in progress, [please feel free to contribute](https://github.com/DNA64/retro-go-rom-compatibility/blob/main/lcd_bad.md).
 
 Please note that any games listed here, whether good, or bad may work differently for you.
 
 #### ROMs with Known Issues
-https://github.com/DNA64/retro-go-rom-compatibility/blob/main/lcd_bad.md
 
-The following games are known to have issues when using [LCD-Game-Shrinker](https://github.com/bzhxx/LCD-Game-Shrinker) & [LCD_Game-Emulator](https://github.com/bzhxx/LCD-Game-Emulator) with the bzhxx fork of [game-and-watch-retro-go](https://github.com/bzhxx/game-and-watch-retro-go).
+
+The following games are known to have issues when using [LCD-Game-Shrinker](https://github.com/bzhxx/LCD-Game-Shrinker) & [LCD_Game-Emulator](https://github.com/bzhxx/LCD-Game-Emulator) which is now included with [game-and-watch-retro-go](https://github.com/kbeckmann/game-and-watch-retro-go)
 
 
 |SYSTEM|GAME|BRAND|ROM CRC32|ART CRC32|ISSUE|
