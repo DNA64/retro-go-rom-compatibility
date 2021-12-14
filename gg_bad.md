@@ -24,7 +24,7 @@ please see https://github.com/DNA64/retro-go-rom-compatibility/blob/main/gg_good
 |GG|**#**|||||
 |||||||
 |GG|**A**|||||
-|GG|Ax Battler - A legend of Golden Axe|3435ab54|BSOD|NO|ENG|
+|GG|Ax Battler - A legend of Golden Axe|3435ab54|BSOD|NO|ENG|No-Intro
 |||||||
 |GG|**B**|||||
 |||||||
