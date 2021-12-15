@@ -1,7 +1,7 @@
 
 ## ColecoVision ROM Compatibility 
 
-This page is a work in progress, [please feel free to contribute](https://github.com/DNA64/retro-go-rom-compatibility/tree/main).
+This page is a work in progress, [please feel free to contribute](https://github.com/DNA64/retro-go-rom-compatibility/edit/main/col_good.md).
 
 ### Abbreviated terms
 
