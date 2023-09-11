@@ -10,6 +10,7 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**A**||||
 ||||||
 |NES|**B**||||
+|NES| Balloon Fight (U).nes ||||YES
 ||||||
 |NES|**C**||||
 ||||||
@@ -21,6 +22,7 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**F**||||
 ||||||
 |NES|**G**||||
+|NES| Galaga (U).nes ||||YES
 ||||||
 |NES|**H**||||
 ||||||
@@ -33,8 +35,11 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|Kirby's Adventure (USA) (Rev 1).nes|9EFD5757|n/a|Too large to compress|YES
 ||||||
 |NES|**L**||||
+|NES| Legend of Zelda ||||YES
 ||||||
 |NES|**M**||||
+|NES| Mega Man 6 (U)||||YES
+|NES| Micro Mages ||||YES
 ||||||
 |NES|**N**||||
 |NES| Ninja Gaiden (U).nes|FE7CEF7A||| YES
@@ -51,8 +56,10 @@ If you encounter an issue with any of the games below, please compare the checks
 |NES|**S**||||
 |NES| Super Mario Bros. (U).nes|FBDAAC3F ||| YES
 |NES| Super Mario Bros. 2 (U).nes |9608C007||| YES
+|NES| Super Mario Bros. 3 (U).nes ||||YES
 ||||||
 |NES|**T**||||
+|NES| Tetris ||||YES
 ||||||
 |NES|**U**||||
 ||||||
